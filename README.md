@@ -4,7 +4,7 @@ YourHR is a job search platform designed to connect job seekers with opportuniti
 
 ## Home Page
 
-![home](</my-app/src/assets/Screenshot 2024-09-22 130303.png>)
+![home](<./src/assets/Screenshot 2024-09-22 130303.png>)
 
 ## Signup form
 
